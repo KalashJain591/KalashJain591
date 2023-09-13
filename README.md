@@ -15,3 +15,8 @@
 <li>🛢 &nbsp; MySQL | Firebase | Postman </li>
 <li>🔧 &nbsp;  Visual Studio code  | Git </li>
 </ul>
+<h3 dir="auto"><a id="user-content---connect-with-me-" class="anchor" aria-hidden="true" tabindex="-1" href="#--connect-with-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> 🤝🏻 Connect with Me </h3>
+<p align="center" dir="auto">
+&nbsp; <a href="https://www.linkedin.com/in/kalash-jain-b50027203/" rel="nofollow"><img src="https://camo.githubusercontent.com/5f5c514ea5b09b205494cfa3eb4c38be4aa8ecf446c42bcf8ddb5ed515529612/68747470733a2f2f696d672e69636f6e73382e636f6d2f706c6173746963696e652f3130302f3030303030302f6c696e6b6564696e2e706e67" width="50" data-canonical-src="https://img.icons8.com/plasticine/100/000000/linkedin.png" style="max-width: 100%;"></a>
+&nbsp; <a href="mailto:kalashjain446@gmail.com"><img src="https://camo.githubusercontent.com/0b284ad31336fce94b81ed72e0e51a99bc2febd3bc995c423dabf4def3a9c534/68747470733a2f2f696d672e69636f6e73382e636f6d2f706c6173746963696e652f3130302f3030303030302f676d61696c2e706e67" width="50" data-canonical-src="https://img.icons8.com/plasticine/100/000000/gmail.png" style="max-width: 100%;"></a>
+</p>
